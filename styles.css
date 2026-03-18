@@ -1,0 +1,5 @@
+body { font-family: 'DM Sans', sans-serif; }
+    .policy-content h2 { font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 1.25rem; color: #0A1A2D; margin-top: 2rem; margin-bottom: 0.75rem; }
+    .policy-content p { color: #475569; line-height: 1.7; margin-bottom: 1rem; }
+    .policy-content ul { color: #475569; line-height: 1.7; margin-bottom: 1rem; padding-left: 1.5rem; list-style-type: disc; }
+    .policy-content li { margin-bottom: 0.5rem; }
